@@ -16,7 +16,7 @@ body {
 header {
     width: 100%;
     height: 100vh;
-    background-image: url(../flower/img/header.jpg);
+    background-image: url(img/header.jpg);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -482,7 +482,7 @@ h3 {
     height: 24px;
     margin: 20px;
     background-size: 100%;
-    background-image: url(../flower/img/icon_instagram.png);
+    background-image: url(img/icon_instagram.png);
     background-repeat: no-repeat;
     position: absolute;
 }
@@ -706,7 +706,7 @@ h3 {
 }
 
 .footer-img {
-    background-image: url(../flower/img/footer.jpg);
+    background-image: url(img/footer.jpg);
     width: 100%;
     height: 70vh;
     background-size: cover;
